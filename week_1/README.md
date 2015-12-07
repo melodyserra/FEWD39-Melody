@@ -116,11 +116,13 @@ For Immediate Release General Assembly, which started in New York as a startup i
 
 
 
-##In-Class Lab & HOmework
+##In-Class Lab & Homework
 - For this exercise we will be coding a cookie recipe. 
 - You will be using the starter code provided. 
 - If you do not complete this in class it is part of your homework assignment. 
-- HOMEWORK: Set up the HTML for the Betty G. Bite About Me page. 
+- HOMEWORK: Set up the HTML for the Betty G. Bite About Me page below. 
+
+![Betty White Resume](img/WendyBite_AboutMe.png)
 
 ##Summary
 - What is HTML?
@@ -170,8 +172,7 @@ p {
 
 
 ##About Me Lab
-- We will now work on coding the about me page below.
-- We will be incorporating our HTML knowledge with CSS styles to accomplish this.
+- We will now work on adding CSS to the about me page built for homework.
 
 ![Betty White Resume](img/WendyBite_AboutMe.png)
 
