@@ -116,9 +116,19 @@ For Immediate Release General Assembly, which started in New York as a startup i
 
 
 
-##In-Class Lab
+##In-Class Lab & HOmework
 - For this exercise we will be coding a cookie recipe. 
 - You will be using the starter code provided. 
+- If you do not complete this in class it is part of your homework assignment. 
+- HOMEWORK: Set up the HTML for the Betty G. Bite About Me page. 
+
+##Summary
+- What is HTML?
+- What is CSS?
+- How do these two languages work together?
+- How does Github client work?
+
+---
 
 ##Using CSS with HTML
 - There are three main ways to use CSS - inline styles, the style tag in the head(internal), and a separate .css file that is linked to the HTML.
@@ -159,7 +169,7 @@ p {
 - How does the CSS syntax work?
 
 
-##About Me Code-Along and Homework
+##About Me Lab
 - We will now work on coding the about me page below.
 - We will be incorporating our HTML knowledge with CSS styles to accomplish this.
 
@@ -169,8 +179,3 @@ p {
 
 ![Wendy G. Bite Resume](img/WendyBite_Resume.png)
 
-##Summary
-- What is HTML?
-- What is CSS?
-- How do these two languages work together?
-- How does Github client work?
