@@ -7,6 +7,7 @@ By the end of this lesson, you will be able to:
 - Identify the syntax of CSS. 
 - Link your CSS to your HTML. 
 - Demonstrate ability to build an HTML document with a linked stylesheet. 
+- Understand how CSS is used to control layout. 
 
 ##Using CSS with HTML
 - There are three main ways to use CSS - inline styles, the style tag in the head(internal), and a separate .css file that is linked to the HTML.
