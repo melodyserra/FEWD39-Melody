@@ -120,7 +120,11 @@ For Immediate Release General Assembly, which started in New York as a startup i
 - For this exercise we will be coding a cookie recipe. 
 - You will be using the starter code provided. 
 - If you do not complete this in class it is part of your homework assignment. 
-- HOMEWORK: Set up the HTML for the Betty G. Bite About Me page below. 
+- Your solution should result in this:
+
+![Cookies Recipe](img/cookies.png)
+
+- HOMEWORK: Set up the HTML for the Betty G. Bite About Me page below:
 
 ![Betty White Resume](img/WendyBite_AboutMe.png)
 
@@ -130,53 +134,5 @@ For Immediate Release General Assembly, which started in New York as a startup i
 - How do these two languages work together?
 - How does Github client work?
 
----
 
-##Using CSS with HTML
-- There are three main ways to use CSS - inline styles, the style tag in the head(internal), and a separate .css file that is linked to the HTML.
-- Linking a stylesheet to the HTML document is the best-practice way to use CSS styles.
-- Here is the syntax for the link tag:
-
-` <link rel="stylesheet" href="style.css" /> `
-
-##CSS Breakdown
-- Each CSS style set starts with a selector.
-- Selectors allow you to identify which elements you want to apply styles to.
-- Here is an example of a selector with a couple rules:
-
-```
-p {
-    color: red;
-    font-weight: bold;
-    background-color: blue;
-}
-
-```
-- This example selects all paragraph tags on the page and applies the below styles to them.
-
-##CSS Colors
-- Colors in CSS can be defined in a few different ways.
-- The first we have already seen - calling them out by their name semantically (red, green, blue, etc.)
-- The second way is by using HEX colors. HEX codes represent shades of red, green, and blue.
-
-![HEX Colors](img/hex_colors.png)
-
-
-- You can find color codes on a number of websites and other programs like Photoshop. [Colorpicker.com](http://www.colorpicker.com/) is a good example.
-- Another way of defining CSS colors is via `rgba()`. Rgba accepts values for red, green, and blue as well as an alpha value for transparency.
-- Each RGB value is from 0 to 255. Alpha values are from 0 to 1.
-
-##CSS Review
-- Where should CSS styles go?
-- How does the CSS syntax work?
-
-
-##About Me Lab
-- We will now work on adding CSS to the about me page built for homework.
-
-![Betty White Resume](img/WendyBite_AboutMe.png)
-
-- Once you complete this, work on creating this page below. Link the about me page to the resume page. 
-
-![Wendy G. Bite Resume](img/WendyBite_Resume.png)
 
