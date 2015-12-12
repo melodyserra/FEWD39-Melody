@@ -9,6 +9,11 @@ By the end of this lesson, you will be able to:
 - Demonstrate ability to build an HTML document with a linked stylesheet. 
 - Understand how CSS is used to control layout. 
 
+##Note on Stretch Exercises
+- Stretch exercises are meant to challenge you. 
+- These will be extra exercises that you may complete if you have time and want to try something a bit harder. 
+- If completed they will not be graded and the solution will not be covered in class. 
+
 ##Using CSS with HTML
 - There are three main ways to use CSS - inline styles, the style tag in the head(internal), and a separate .css file that is linked to the HTML.
 - Linking a stylesheet to the HTML document is the best-practice way to use CSS styles.
@@ -121,8 +126,7 @@ p {
 - Review the mockup of the fashion blog located [here](img/fashion_blog_2.png) and do the same thing.
 
 ##Code-Along: Let's Create Our Own Grid
-- We will create a 2, 4, and 6 column grid.
-- We will try nesting a grid inside another grid.
+- We will create a 2, 3, and 4 column grid.
 
 
 ##CSS Positioning
@@ -143,11 +147,11 @@ p {
 
 ![The Mirror](img/the_mirror.png)
 
-3. The Skinny
+3. The Skinny - *Stretch Exercise*
 
 ![The Skinny](img/the_skinny.png)
 
-4. The Absolute
+4. The Absolute - *Stretch Exercise*
 
 ![The Absolute](img/the_absolute.png)
 
