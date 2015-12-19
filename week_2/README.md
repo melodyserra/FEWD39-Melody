@@ -9,10 +9,6 @@ By the end of this lesson, you will be able to:
 - Demonstrate ability to build an HTML document with a linked stylesheet. 
 - Understand how CSS is used to control layout. 
 
-##Note on Stretch Exercises
-- Stretch exercises are meant to challenge you. 
-- These will be extra exercises that you may complete if you have time and want to try something a bit harder. 
-- If completed they will not be graded and the solution will not be covered in class. 
 
 ##Using CSS with HTML
 - There are three main ways to use CSS - inline styles, the style tag in the head(internal), and a separate .css file that is linked to the HTML.
@@ -128,32 +124,6 @@ p {
 ##Code-Along: Let's Create Our Own Grid
 - We will create a 2, 3, and 4 column grid.
 
-
-##CSS Positioning
-- There are four main types of positioning that you will see most often - static, relative, absolute, and fixed.
-- Static positioning is what all elements have by default. 
-- Relative and absolute work together - elements can be positioned absolutely relative to their container.
-- Fixed position elements are essentially absolute relative to the window no matter where they are in the DOM. A.K.A. the window is always the relative parent.
-
-##Positioning Exercise
-- Try to replicate the following mockups using what we've talked about in this class so far.
-- Utilize margins, padding, floats, positioning, etc.
-
-1. Stackers!
-
-![Stackers!](img/stackers.png)
-
-2. The Mirror
-
-![The Mirror](img/the_mirror.png)
-
-3. The Skinny - *Stretch Exercise*
-
-![The Skinny](img/the_skinny.png)
-
-4. The Absolute - *Stretch Exercise*
-
-![The Absolute](img/the_absolute.png)
 
 ##In-Class Lab / Homework
 - For homework you will be creating the fashion blog using your knowledge of layouts.
