@@ -4,14 +4,88 @@
 
 By the end of this lesson, you will be able to:
 
+- Apply some neat CSS tricks. 
 - Better understand how CSS is used to control layout. 
 - Understand how CSS is used to position elements on the page. 
-- Understand what CSS advanced selectors are and why they are useful. 
+- Understand what advanced CSS selectors are and why they are useful. 
 
 ##Note on Stretch Exercises
 - Stretch exercises are meant to challenge you. 
 - These will be extra exercises that you may complete if you have time and want to try something a bit harder. 
 - If completed they will not be graded and the solution will not be covered in class. 
+
+##HTML Tags Continued...
+
+#####Div:
+- Divs are like empty rectangles.
+- They help organize content on the page.
+
+```
+<div class="margin-top-20 logo">
+	My Text Inside
+</div>
+```
+
+#####Select list:
+- Select lists allow users to select options from a dropdown menu.
+
+```
+<select>
+	<option value="USA">United States</option>
+</select>
+```
+
+- YOUR MISSION: Divide in to groups, you group will be resonsible for researching one of the following tags: **header**, **nav**, **aside**, **article**, and **footer**. Find out what these tags are and why they would be used. 
+
+##CSS Tricks 
+
+###Fun with Fonts
+- Google Fonts
+
+### Grouping (CSS)
+- You can give the same properties to various selectors without having to repeat them. 
+- To do this separate selectors with commas in one line and apply the same properties to all of them.
+
+CSS:
+
+```
+h1, .paragraph, #aboutme {
+	color: blue;
+}
+
+``` 
+### Nesting(CSS)
+- This means you have a selector within another selector. 
+
+HTML:
+
+```
+<div id="top">
+    <h1>Apple Pie</h1>
+    <p>This is the recipe for my nonna's famous apple pie.</p>
+    <p>The ingredients are: ....</p>
+</div>
+
+```
+CSS:
+
+```
+#top {
+    background-color: #ccc;
+    padding: 1em;
+}
+
+#top h1 {
+    color: #ff0;
+}
+
+#top p {
+    color: red;
+    font-weight: bold;
+}
+
+```
+
 
 ##Review
 - To review, we will be creating a mini-project. 
@@ -19,6 +93,7 @@ By the end of this lesson, you will be able to:
 	- Create a folder, call it "review"
 	- Create your basic HTML document
 	- Use a header tag, nav tag, aside tag, article tag, and footer tag. 
+- Find creative ways to use the **grid system**, **id**, **class**, **float**. 
 
 
 ##CSS Positioning
@@ -31,19 +106,19 @@ By the end of this lesson, you will be able to:
 - Try to replicate the following mockups using what we've talked about in this class so far.
 - Utilize margins, padding, floats, positioning, etc.
 
-1. Stackers!
+1.Stackers!
 
 ![Stackers!](img/stackers.png)
 
-2. The Mirror
+2.The Mirror
 
 ![The Mirror](img/the_mirror.png)
 
-3. The Skinny - *Stretch Exercise*
+3.The Skinny - *Stretch Exercise*
 
 ![The Skinny](img/the_skinny.png)
 
-4. The Absolute - *Stretch Exercise*
+4.The Absolute - *Stretch Exercise*
 
 ![The Absolute](img/the_absolute.png)
 
