@@ -339,6 +339,7 @@ CSS
 
 ##Homework
 - Finish fashion blog
+- Add more styling to your portfolio, try adding some of the new HTML tags that you've learned(header, nav, article, aside, section, div, footer), some CSS pseudo classes, and any other styling tips and tricks you have learned these past 3 weeks. 
 - Review CSS selectors
 - Review documentation for [Twitter Bootstrap](http://getbootstrap.com/).
 - Bonus: Go through the JavaScript sections of Dash.
