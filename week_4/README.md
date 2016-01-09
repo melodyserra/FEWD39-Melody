@@ -54,7 +54,7 @@ By the end of this lesson, you will be able to:
 ##Using Bootstrap
 - To use Bootstrap you have to include the three required files.
 - Bootstrap files can be linked via the CDN provided, or downloaded locally onto the computer.
-- Remember to place your reference to the jQuery library above your reference to the Boostrap JS code.
+- Remember to place your reference to the jQuery library above your reference to the Bootstrap JS code.
 
 ##Bootstrap Columns
 - Columns are written in this format as a class attribute: col-(breakpoint)-(offset).
