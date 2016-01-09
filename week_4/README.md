@@ -102,6 +102,7 @@ CSS
 		width:400px;
 		height:400px;
 		border:#000 1px solid;
+		background-color:red;
 	}
 }
 ```
