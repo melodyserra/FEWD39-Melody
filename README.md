@@ -7,3 +7,5 @@
 ##### [Week 3: Positioning and Layout, CSS Selectors](week_3/)
 
 ##### [Week 4: Advanced Layout, Bootstrap Framework, Responsive Web Design](week_4/)
+
+##### [Week 5: Introduction to JavaScript](week_5/)
