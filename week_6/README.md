@@ -61,7 +61,8 @@ __Assignment:__
 
 #####User objects
 * While not an officially sanctioned category, this is basically any object you create yourself.####In-Class Lab #2: Creating Javascript Objects (in console, in JS files, in Snippets)
-![image](/Users/sama/Documents/FEWD39/imagesForNotes/objects.png)
+
+![Objects Example](img/objects.png)
 =====================
 ## DOM Manipulation - Creating Elements
 ###How do we currently create elements?
@@ -94,7 +95,8 @@ __Assignment:__
 	
 		<span>, <li>, <div>, <img> 
 		
-![image](/Users/sama/Documents/FEWD39/imagesForNotes/createElement.png)
+
+![createElement()](img/createElement.png)
 
 
 Once you determine which element you want to create, assign it to variable:
@@ -146,10 +148,8 @@ To add the element to the DOM, you first have to get its parent element.
 		var ul = document.querySelector("ul")
 		
 		ul.appendChild(li)
-		
 
-![image](/Users/sama/Documents/FEWD39/imagesForNotes/Element.png)
-
+![Element](img/Element.png)
 
 =================
 
