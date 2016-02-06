@@ -35,7 +35,8 @@ _For example, this can be useful when:_
 * Clicking on a __"Submit"__ button, prevent it from submitting a form
 * Clicking on a __link__, prevent the link from following the URL
 
-
+####Screenshot of Todo-List Solution:
+![Todo-List](img/todoList.png)
 ============
 
 ## Quick Cheatsheet Screenshot
@@ -90,7 +91,7 @@ The above code is handy for getting some data from a URL (for example, the OMDB 
 
 ===========
 
-## OMDP Movie API 
+## OMDB Movie API 
 
 ####see: [http://www.omdbapi.com/](http://www.omdbapi.com/)
 
@@ -128,7 +129,15 @@ The above code is handy for getting some data from a URL (for example, the OMDB 
 
 * From your starter code, move all the CSS, and JS onto different their own folders, link up jQuery library to the HTML DOC.  Set up the files as if this was your own project
 * Code - along:  code the results in our DOM using Javascript or jQuery
-* Review [forEach()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+
+#### Screenshot of Movie API solution: 
+![movieAPI](img/movieApi.png)
+
+=============
+
+
+#### Review [forEach()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+
 
 		array.forEach(callback function)		
 		
