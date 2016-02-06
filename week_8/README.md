@@ -40,7 +40,7 @@ _For example, this can be useful when:_
 
 ## Quick Cheatsheet Screenshot
 
-![jQuery CheatSheet Example](img/jQuery_JS_Cheatsheet.png)
+![jQuery CheatSheet Example](img/jQuery_Cheatsheet.png)
 
 =================
 
@@ -130,7 +130,21 @@ The above code is handy for getting some data from a URL (for example, the OMDB 
 * Code - along:  code the results in our DOM using Javascript or jQuery
 * Review [forEach()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
 
-		array.forEach(callback function)
+		array.forEach(callback function)		
+		
+Here's an example:
+
+		 var instructors = ['Celeste', 'Melody', 'Sandi'];
+
+  		 var list = document.querySelector('ul');
+
+			function listInstructor(instructor) {
+				 var item = document.createElement('li');
+				 item.textContent = instructor;
+				 list.appendChild(item);
+ 			 }
+ 			 
+ 		  instructors.forEach(listInstructor);
 
 ###Lab #2/Homework #1
 
