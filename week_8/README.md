@@ -23,13 +23,17 @@ By the end of this lesson, you will be able to:
 
 ## Review of Todo-List Lab (using JS and jQuery)
 * Why do we use a "form" tag? Select for the <form> tag in JS and jQuery
-* event.preventDefault()  -- what is this?  (see: [http://www.w3schools.com/jsref/event_preventdefault.asp](http://www.w3schools.com/jsref/event_preventdefault.asp))
+* What is [event.preventDefault()?](http://www.w3schools.com/jsref/event_preventdefault.asp)
+
+		event.preventDefault()
+
+
 	* The preventDefault() method cancels the event if it is cancelable, meaning that the default action that belongs to the event will not occur.
 
 _For example, this can be useful when:_
 
-Clicking on a __"Submit"__ button, prevent it from submitting a form
-Clicking on a __link__, prevent the link from following the URL
+* Clicking on a __"Submit"__ button, prevent it from submitting a form
+* Clicking on a __link__, prevent the link from following the URL
 
 
 ============
