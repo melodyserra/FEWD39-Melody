@@ -53,14 +53,16 @@ _For example, this can be useful when:_
 In order to access data from an API, we will need to make an :   XMLHttpRequest (see: [https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest](http://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest))
 
 ####What is XMLHttpRequest? 
-* XMLHttpRequest is an API that provides client functionality for transferring data between a client and a server. It provides an easy way to retrieve data from a URL without having to do a full page refresh. This enables a Web page to update just a part of the page without disrupting what the user is doing.  XMLHttpRequest is used heavily in AJAX programming.
+* XMLHttpRequest is an API that provides client functionality for transferring data between a client and a server. 
+* It provides an easy way to retrieve data from a URL without having to do a full page refresh. This enables a Web page to update just a part of the page without disrupting what the user is doing.  
+* XMLHttpRequest is used heavily in AJAX programming.
 
-#### What is AJAX?
+	__What is AJAX?__
+	
 * AJAX stands for Asynchronous JavaScript and XML.
 * It is a way to send and receive data from a server (the back end) _after the page has already been loaded, and without reloading it._
 * AJAX accepts and operates through the [REST](http://en.wikipedia.org/wiki/Representational_state_transfer) convention. 
 * It bridges the gap between front end and back end in a user-friendly way.
-
 
 
 ####Another definition for: XMLHttpRequest (or XHR) 
