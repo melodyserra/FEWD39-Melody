@@ -157,7 +157,7 @@ Here's an example:
 ## One on one with each student to go over their final project ideas
 
 * What is your final project about? MVP? (Minimal Viable Product)
-* What tools, libraries will they need to use?  
+* What tools, libraries will you need to use?  
 	* jQuery?
 	* Bootstrap?
 	* Wow.js?
@@ -169,7 +169,7 @@ Here's an example:
 	* Spotify?
 	* Google Map? 
 	
-* Are they within scope?
+* Is your web application within scope of this class?
 
 ==============
 
